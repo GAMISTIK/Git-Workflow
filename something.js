@@ -1,1 +1,5 @@
-// Some useless JavaScript code\nfor (let i = 0; i < 10; i++) {\n  console.log(i);\n}
+// Some useless JavaScript code
+
+for (let i = 0; i < 10; i++) {
+    console.log(i);
+  }
