@@ -1,1 +1,6 @@
-// Some useless JavaScript code\nfor (let i = 0; i < 10; i++) {\n  console.log(i);\n}
+let min = 5;
+let max = 25;
+
+for (let index = min; index < max; index++) {
+    console.log(index);
+}
